@@ -1305,6 +1305,21 @@ input[type="radio"]:checked ~ .box .circle{
   background-color: rgb(9 14 52 / var(--tw-bg-opacity));
 }
 
+.bg-pink-500{
+  --tw-bg-opacity: 1;
+  background-color: rgb(236 72 153 / var(--tw-bg-opacity));
+}
+
+.bg-pink-300{
+  --tw-bg-opacity: 1;
+  background-color: rgb(249 168 212 / var(--tw-bg-opacity));
+}
+
+.bg-pink-400{
+  --tw-bg-opacity: 1;
+  background-color: rgb(244 114 182 / var(--tw-bg-opacity));
+}
+
 .bg-opacity-5{
   --tw-bg-opacity: 0.05;
 }
